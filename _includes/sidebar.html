@@ -16,7 +16,20 @@
   </header>
   <!-- .profile-wrapper -->
 
-  <!-- (moved) external main site button will be placed at bottom of nav -->
+  <!-- prominent main-site button directly under header -->
+  <div class="w-100 px-3 mt-3 mb-3">
+    <a
+      href="https://252425.xyz"
+      class="btn btn-primary w-100 d-flex align-items-center justify-content-center sidebar-main-btn"
+      aria-label="Zur Hauptseite"
+      title="Öffnet die Hauptseite in neuem Tab"
+      target="_blank"
+      rel="noopener"
+    >
+      <i class="fa-fw fas fa-home me-2"></i>
+      <span>Zur Hauptseite</span>
+    </a>
+  </div>
 
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
@@ -43,20 +56,7 @@
     </ul>
   </nav>
 
-  <!-- prominent main-site button above bottom controls -->
-  <div class="w-100 px-3 mt-2 mb-2">
-    <a
-      href="https://252425.xyz"
-      class="btn btn-outline-primary btn-sm w-100 d-flex align-items-center justify-content-center"
-      aria-label="Zur Hauptseite"
-      title="Öffnet die Hauptseite in neuem Tab"
-      target="_blank"
-      rel="noopener"
-    >
-      <i class="fa-fw fas fa-globe me-2"></i>
-      <span>Zur Hauptseite</span>
-    </a>
-  </div>
+  
 
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
