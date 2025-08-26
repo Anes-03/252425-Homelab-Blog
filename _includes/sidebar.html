@@ -2,7 +2,7 @@
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
-    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
+    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded">
       {%- if site.avatar != empty and site.avatar -%}
         {%- capture avatar_url -%}
           {% include media-url.html src=site.avatar %}
@@ -40,15 +40,23 @@
         <!-- .nav-item -->
       {% endfor %}
 
-      <!-- external main site button at bottom -->
-      <li class="nav-item w-100 px-3 mt-2">
-        <a href="https://252425.xyz" class="btn btn-primary w-100" aria-label="Zur Hauptseite" target="_blank" rel="noopener">
-          <i class="fa-fw fas fa-external-link-alt"></i>
-          <span>Zur Hauptseite</span>
-        </a>
-      </li>
     </ul>
   </nav>
+
+  <!-- prominent main-site button above bottom controls -->
+  <div class="w-100 px-3 mt-2 mb-2">
+    <a
+      href="https://252425.xyz"
+      class="btn btn-outline-primary btn-sm w-100 d-flex align-items-center justify-content-center"
+      aria-label="Zur Hauptseite"
+      title="Öffnet die Hauptseite in neuem Tab"
+      target="_blank"
+      rel="noopener"
+    >
+      <i class="fa-fw fas fa-globe me-2"></i>
+      <span>Zur Hauptseite</span>
+    </a>
+  </div>
 
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
