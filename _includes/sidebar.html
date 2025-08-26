@@ -7,7 +7,7 @@
         {%- capture avatar_url -%}
           {% include media-url.html src=site.avatar %}
         {%- endcapture -%}
-        <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+        <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" class="rounded" onerror="this.style.display='none'">
       {%- endif -%}
     </a>
 
@@ -16,20 +16,15 @@
   </header>
   <!-- .profile-wrapper -->
 
+  <!-- (moved) external main site button will be placed at bottom of nav -->
+
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
-      <!-- external main site link -->
-      <li class="nav-item">
-        <a href="https://252425.xyz" class="nav-link" target="_blank" rel="noopener">
-          <i class="fa-fw fas fa-home"></i>
-          <span>Zur Startseite</span>
-        </a>
-      </li>
       <!-- home (blog) -->
       <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
-          <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
+          <span>STARTSEITE</span>
         </a>
       </li>
       <!-- the real tabs -->
@@ -44,6 +39,14 @@
         </li>
         <!-- .nav-item -->
       {% endfor %}
+
+      <!-- external main site button at bottom -->
+      <li class="nav-item w-100 px-3 mt-2">
+        <a href="https://252425.xyz" class="btn btn-primary w-100" aria-label="Zur Hauptseite" target="_blank" rel="noopener">
+          <i class="fa-fw fas fa-external-link-alt"></i>
+          <span>Zur Hauptseite</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
@@ -102,4 +105,3 @@
   <!-- .sidebar-bottom -->
 </aside>
 <!-- #sidebar -->
-
