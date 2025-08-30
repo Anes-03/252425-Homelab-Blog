@@ -1,0 +1,47 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>252425 Homelab Blog</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-08-30T22:33:59+02:00</updated>
+  <author>
+    <name>252425 Homelab</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="de"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 252425 Homelab </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Willkommen im Homelab Blog</title>
+    <link href="http://localhost:4000/posts/willkommen/" rel="alternate" type="text/html" title="Willkommen im Homelab Blog" />
+    <published>2025-08-25T12:00:00+02:00</published>
+  
+    <updated>2025-08-25T12:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/willkommen/</id>
+    <content type="text/html" src="http://localhost:4000/posts/willkommen/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+  
+
+  <summary>Kurzvorstellung des Blogs und was dich erwartet.</summary>
+
+  </entry>
+
+</feed>
+
+

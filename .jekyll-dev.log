@@ -1,0 +1,145 @@
+Configuration file: /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/_config.yml
+            Source: /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog
+       Destination: /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.25 seconds.
+ Auto-regeneration: enabled for '/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-08-30 01:41:33
+                    _includes/sidebar.html
+                    ...done in 0.130405 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:41:37
+                    assets/css/custom.css
+                    ...done in 0.099984 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:44:41
+                    assets/css/custom.css
+                    ...done in 0.132271 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:44:51
+                    assets/css/custom.css
+                    ...done in 0.127032 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:48:01
+                    assets/css/custom.css
+                    ...done in 0.133291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:50:20
+                    _includes/sidebar.html
+                    ...done in 0.140259 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:50:46
+                    assets/css/custom.css
+                    ...done in 0.128329 seconds.
+                    
+[2025-08-30 01:50:46] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-08-30 01:50:46] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2025-08-30 01:53:24
+                    _includes/sidebar.html
+                    ...done in 0.136478 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:53:54
+                    _includes/sidebar.html
+                    ...done in 0.133842 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:54:05
+                    assets/css/custom.css
+                    ...done in 0.131583 seconds.
+                    
+[2025-08-30 01:54:34] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2025-08-30 01:56:51
+                    _includes/sidebar.html
+                    ...done in 0.128115 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 01:56:57
+                    assets/css/custom.css
+                    ...done in 0.090022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:01:13
+                    assets/css/custom.css
+                    ...done in 0.135594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:03:23
+                    _includes/sidebar.html
+                    ...done in 0.13504 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:15:00
+                    _includes/sidebar.html
+                    ...done in 0.131986 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:15:08
+                    _data/locales/de.yml
+                    ...done in 0.087584 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2025-08-30 02:19:44
+                    .jekyll-dev.log
+                    docs/Website-Dokumentation.md
+                    docs/Design-System-Guide.md
+                    ...done in 0.134388 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:27:24
+                    _tabs/about.md
+                    ...done in 0.129736 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:33:28
+                    _tabs/about.md
+                    ...done in 0.142835 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 02:37:13
+                    _tabs/about.md
+                    ...done in 0.120957 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 10:35:48
+                    _tabs/about.md
+                    ...done in 0.165267 seconds.
+                    
+[2025-08-30 10:36:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-08-30 10:36:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2025-08-30 10:39:33
+                    _tabs/about.md
+                    ...done in 0.159414 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 10:40:28
+                    _tabs/about.md
+                    ...done in 0.152778 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 22:26:47
+                    _tabs/about.md
+                    ...done in 0.176415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 22:27:37
+                    _tabs/about.md
+                    ...done in 0.151079 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 22:30:53
+                    _tabs/about.md
+                    ...done in 0.149843 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 22:32:40
+                    _tabs/about.md
+                    ...done in 0.158651 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 22:33:59
+                    .jekyll-dev.log
+                    ...done in 0.123627 seconds.
+                    

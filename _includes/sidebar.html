@@ -1,13 +1,13 @@
 <!-- The Side Bar (overridden locally) -->
 
-<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+<aside aria-label="Seitenleiste" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar" class="rounded">
       {%- if site.avatar != empty and site.avatar -%}
         {%- capture avatar_url -%}
           {% include media-url.html src=site.avatar %}
         {%- endcapture -%}
-        <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" class="rounded" onerror="this.style.display='none'">
+        <img src="{{- avatar_url -}}" width="112" height="112" alt="Profilbild" class="rounded" onerror="this.style.display='none'">
       {%- endif -%}
     </a>
 
@@ -16,20 +16,7 @@
   </header>
   <!-- .profile-wrapper -->
 
-  <!-- prominent main-site button directly under header -->
-  <div class="w-100 px-3 mt-3 mb-3">
-    <a
-      href="https://252425.xyz"
-      class="btn btn-primary w-100 d-flex align-items-center justify-content-center sidebar-main-btn"
-      aria-label="Zur Startseite"
-      title="Öffnet die Startseite in neuem Tab"
-      target="_blank"
-      rel="noopener"
-    >
-      <i class="fa-fw fas fa-home me-2"></i>
-      <span>Zur Startseite</span>
-    </a>
-  </div>
+  
 
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
@@ -46,21 +33,41 @@
           <a href="{{ tab.url | relative_url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
 
-            {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
-            <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+            {% assign tab_name = tab.url | remove: '/' %}
+            <span>{{ site.data.locales[site.lang].tabs[tab_name] | default: tab.title | upcase }}</span>
           </a>
         </li>
         <!-- .nav-item -->
       {% endfor %}
+
+      <!-- separator between About and external main site link -->
+      <li class="nav-separator" aria-hidden="true">
+        <span class="sidebar-separator-line"></span>
+      </li>
+
+      <!-- external main site link styled as a normal nav item -->
+      <li class="nav-item">
+        <a
+          href="https://252425.xyz"
+          class="nav-link"
+          aria-label="Zur Startseite (extern)"
+          title="Öffnet die Hauptseite in neuem Tab"
+          target="_blank"
+          rel="noopener"
+        >
+          <i class="fa-fw fas fa-home"></i>
+          <span>ZUR STARTSEITE</span>
+        </a>
+      </li>
 
     </ul>
   </nav>
 
   
 
-  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+  <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
     {% unless site.theme_mode %}
-      <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
+      <button type="button" class="btn btn-link nav-link" aria-label="Modus wechseln" title="Modus wechseln" id="mode-toggle">
         <i class="fas fa-adjust"></i>
       </button>
 
@@ -86,10 +93,21 @@
           {% assign url = entry.url %}
       {% endcase %}
 
+      {%- assign label = entry.type -%}
+      {%- case entry.type -%}
+        {%- when 'github' -%}{%- assign label = 'GitHub' -%}
+        {%- when 'twitter' -%}{%- assign label = 'X' -%}
+        {%- when 'email' -%}{%- assign label = 'E-Mail' -%}
+        {%- when 'rss' -%}{%- assign label = 'RSS-Feed' -%}
+        {%- when 'mastodon' -%}{%- assign label = 'Mastodon' -%}
+        {%- when 'linkedin' -%}{%- assign label = 'LinkedIn' -%}
+      {%- endcase -%}
+
       {% if url %}
         <a
           href="{{ url }}"
-          aria-label="{{ entry.type }}"
+          aria-label="{{ label }}"
+          title="{{ label }}"
           {% assign link_types = '' %}
 
           {% unless entry.noblank %}
