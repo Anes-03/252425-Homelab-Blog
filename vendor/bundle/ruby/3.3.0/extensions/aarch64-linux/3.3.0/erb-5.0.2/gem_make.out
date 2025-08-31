@@ -1,0 +1,19 @@
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.2/ext/erb/escape
+/usr/local/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-78adnq sitelibdir\=./.gem.20250830-2319-78adnq clean
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-78adnq sitelibdir\=./.gem.20250830-2319-78adnq
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-78adnq sitelibdir\=./.gem.20250830-2319-78adnq install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250830-2319-78adnq/erb
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-78adnq sitelibdir\=./.gem.20250830-2319-78adnq clean

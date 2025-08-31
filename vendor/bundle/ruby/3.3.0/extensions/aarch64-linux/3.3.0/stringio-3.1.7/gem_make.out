@@ -1,0 +1,19 @@
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
+/usr/local/bin/ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-437k5u sitelibdir\=./.gem.20250830-2319-437k5u clean
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-437k5u sitelibdir\=./.gem.20250830-2319-437k5u
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-437k5u sitelibdir\=./.gem.20250830-2319-437k5u install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20250830-2319-437k5u
+
+current directory: /workspaces/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250830-2319-437k5u sitelibdir\=./.gem.20250830-2319-437k5u clean

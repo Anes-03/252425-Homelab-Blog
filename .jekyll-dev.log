@@ -143,3 +143,57 @@ LiveReload address: http://127.0.0.1:35729
                     .jekyll-dev.log
                     ...done in 0.123627 seconds.
                     
+      Regenerating: 1 file(s) changed at 2025-08-30 23:20:37
+                    .jekyll-dev.log
+                    ...done in 0.137794 seconds.
+                    
+      Regenerating: 5 file(s) changed at 2025-08-30 23:20:47
+                    .jekyll-dev.log
+                    .ruby-lsp/main_lockfile_hash
+                    .ruby-lsp/.gitignore
+                    .ruby-lsp/Gemfile
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.1177 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 23:21:05
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.130446 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-08-30 23:30:31
+                    .ruby-lsp/Gemfile.lock
+                    .ruby-lsp/last_updated
+                    ...done in 0.129892 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-30 23:30:32
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.11351 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 11:46:18
+                    .jekyll-dev.log
+                    ...done in 0.148448 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 11:53:38
+                    _posts/2025-08-25-willkommen.md
+                    ...done in 0.131525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 11:54:01
+                    _posts/2025-08-25-willkommen.md
+                    ...done in 0.118625 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-08-31 12:01:21
+                    _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
+                    _posts/2025-08-25-willkommen.md
+                    ...done in 0.137053 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 12:01:33
+                    _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
+                    ...done in 0.128406 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 12:03:02
+                    _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
+                    ...done in 0.130519 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 12:04:37
+                    _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
+                    ...done in 0.143275 seconds.
+                    
