@@ -197,3 +197,66 @@ LiveReload address: http://127.0.0.1:35729
                     _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
                     ...done in 0.143275 seconds.
                     
+      Regenerating: 1 file(s) changed at 2025-08-31 19:07:26
+                    _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
+                    ...done in 0.134401 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 19:08:52
+                    _posts/2025-08-31-Mein-Start-mit-252425-Homelab.md
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/_site/posts/Mein-Start-mit-252425-Homelab/index.html[0m[0m
+[33m                     - /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/_posts/2025-08-25-Mein-Start-mit-252425-Homelab.md[0m
+[33m                     - /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/_posts/2025-08-31-Mein-Start-mit-252425-Homelab.md[0m
+[33m                    [0m
+                    ...done in 0.165949 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 19:08:52
+                    _posts/2025-08-25-Mein-Start-mit-252425-Homelab.md
+                    ...done in 0.102061 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 20:22:56
+                    _data/locales/de.yml
+                    ...done in 0.138235 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:01:05
+                    _posts/_template.md
+                    ...done in 0.135431 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:08:19
+                    _posts/_template.md
+                    ...done in 0.13515 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:10:44
+                    _posts/_template.md
+                    ...done in 0.134883 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:19:43
+                    _posts/_template.md
+                    ...done in 0.135448 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:20:56
+                    _posts/_template.md
+                    ...done in 0.140089 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:21:27
+                    _posts/_template.md
+                    ...done in 0.127795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:21:35
+                    _posts/_template.md
+                    ...done in 0.135812 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:25:09
+                    _posts/_template.md
+                    ...done in 0.145187 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 21:27:49
+                    _posts/_template.md
+                    ...done in 0.104284 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-08-31 21:28:26
+                    .jekyll-dev.log
+                    _posts/_template.md
+                    ...done in 0.138016 seconds.
+                    

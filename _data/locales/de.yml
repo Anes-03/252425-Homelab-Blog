@@ -4,3 +4,26 @@ tabs:
   categories: Kategorien
   archives: Archiv
   tags: Tags
+
+panel:
+  toc: Inhalt
+
+post:
+  written_by: Von
+  posted: Veröffentlicht
+  updated: Aktualisiert
+  words: Wörter
+  pageview_measure: Aufrufe
+  read_time:
+    unit: Min.
+    prompt: lesen
+  relate_posts: Weiterführende Beiträge
+  share: Teilen
+  button:
+    next: Neuer
+    previous: Älter
+    copy_code:
+      succeed: Kopiert!
+    share_link:
+      title: Link kopieren
+      succeed: Link erfolgreich kopiert!

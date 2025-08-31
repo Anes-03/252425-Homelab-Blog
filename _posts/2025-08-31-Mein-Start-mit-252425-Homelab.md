@@ -1,6 +1,6 @@
 ---
 title: "Mein Start mit 252425 Homelab"
-date: 2025-08-25 12:00:00 +0200
+date: 2025-08-31 12:00:00 +0200
 categories: [Homelab]
 tags: [start, homelab, raspberry-pi, nas, blog]
 description: "Mein Start mit 252425 Homelab: von einer simplen Link-Seite zu ersten Projekten mit Raspberry Pi als NAS – und wohin die Reise hier im Blog geht."
@@ -18,3 +18,4 @@ In einem späteren Beitrag werde ich genauer darauf eingehen, wie ich bei diesem
 Da ich mich sehr gerne mit Technik beschäftige, war es genau das, was ich gesucht habe. Ein Ort zum Experimentieren, Ausprobieren und selber Bauen. Dinge, die ich brauche oder einfach spannend finde, setze ich Schritt für Schritt in meinem Homelab um. Mir ist es wichtig, die Geräte, die ich habe, so gut wie möglich auszunutzen.  
 
 Dieser Blog soll meine Reise begleiten. Meine Erfahrungen, mein Vorgehen und die Freude am Homelab möchte ich hier mit euch teilen.  
+
