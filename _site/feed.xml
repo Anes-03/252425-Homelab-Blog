@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://blog.252425.xyz/</id>
   <title>252425 Homelab Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-08-31T21:28:26+02:00</updated>
+  <updated>2025-09-05T00:09:24+02:00</updated>
   <author>
     <name>252425 Homelab</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://blog.252425.xyz/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://blog.252425.xyz/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="de"
-    href="http://localhost:4000/"/>
+    href="https://blog.252425.xyz/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 252425 Homelab </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,40 @@
 
   
   <entry>
+    <title>Neue Logos für mein Homelab</title>
+    <link href="https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/" rel="alternate" type="text/html" title="Neue Logos für mein Homelab" />
+    <published>2025-09-04T18:00:00+02:00</published>
+  
+    <updated>2025-09-04T18:00:00+02:00</updated>
+  
+    <id>https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/</id>
+    <content type="text/html" src="https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+    <category term="Design" />
+    
+  
+
+  <summary>Ich habe neue Logos für mein Homelab entworfen – erste Entwürfe, Varianten und nächste Schritte.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Mein Start mit 252425 Homelab</title>
-    <link href="http://localhost:4000/posts/Mein-Start-mit-252425-Homelab/" rel="alternate" type="text/html" title="Mein Start mit 252425 Homelab" />
-    <published>2025-08-31T12:00:00+02:00</published>
+    <link href="https://blog.252425.xyz/posts/Mein-Start-mit-252425-Homelab/" rel="alternate" type="text/html" title="Mein Start mit 252425 Homelab" />
+    <published>2025-08-31T18:00:00+02:00</published>
   
-    <updated>2025-08-31T12:00:00+02:00</updated>
+    <updated>2025-08-31T18:00:00+02:00</updated>
   
-    <id>http://localhost:4000/posts/Mein-Start-mit-252425-Homelab/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Mein-Start-mit-252425-Homelab/" />
+    <id>https://blog.252425.xyz/posts/Mein-Start-mit-252425-Homelab/</id>
+    <content type="text/html" src="https://blog.252425.xyz/posts/Mein-Start-mit-252425-Homelab/" />
     <author>
       <name>252425 Homelab</name>
     </author>

@@ -260,3 +260,197 @@ LiveReload address: http://127.0.0.1:35729
                     _posts/_template.md
                     ...done in 0.138016 seconds.
                     
+      Regenerating: 2 file(s) changed at 2025-08-31 22:19:13
+                    .ruby-lsp/last_updated
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.178987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 22:19:14
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.121943 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-08-31 22:35:32
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.163627 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-09-01 20:40:13
+                    .ruby-lsp/last_updated
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.150082 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-09-01 20:40:14
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.130978 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-09-04 22:19:15
+                    .ruby-lsp/last_updated
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.234898 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:19:17
+                    .ruby-lsp/Gemfile.lock
+                    ...done in 0.130142 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:22:04
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+                    ...done in 0.191497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:41:20
+                    assets/img/posts/2025-09-04-neue-logos/.gitkeep
+                    ...done in 0.203552 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:42:53
+                    .jekyll-dev.log
+                    ...done in 0.190076 seconds.
+                    
+      Regenerating: 6 file(s) changed at 2025-09-04 22:44:59
+                    assets/img/posts/2025-09-04-neue-logos/20250603_1930_Haus mit Fenstern_remix_01jwvdeagcfqgb6e8rqqq5y0ew.png
+                    assets/img/posts/2025-09-04-neue-logos/20250603_1924_Logo für 252425 Homelab_simple_compose_01jwvd4csge4kbg8hme8rbmkw9.png
+                    assets/img/posts/2025-09-04-neue-logos/20250821_2246_Invertiertes Logo Design_remix_01k37616v7fmhrjjz3gbhq7nf9.png
+                    assets/img/posts/2025-09-04-neue-logos/20250426_1544_252425 Technisches Logo_simple_compose_01jss5e2ryecwr99fdqye2n5bd.png
+                    assets/img/posts/2025-09-04-neue-logos/20250426_1544_252425 Technisches Logo_simple_compose_01jss5e2rzf81rbg6wkjnmwhzf.png
+                    assets/img/posts/2025-09-04-neue-logos/20250603_1930_Haus mit Fenstern_remix_01jwvdeagde7m9cga47q0cxa6t.png
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:46:12
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:48:10
+                    .ruby-lsp/Gemfile.lock
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:48:35
+                    .ruby-lsp/Gemfile.lock
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:52:42
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[31m  Liquid Exception: incompatible character encodings: UTF-8 and ASCII-8BIT in /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/_posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md[0m
+[33m             Error: incompatible character encodings: UTF-8 and ASCII-8BIT[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:53:01
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 22:53:18
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:05:37
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+[2025-09-04 23:09:43] ERROR '/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2025-09-04 23:12:17
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:16:28
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:16:50
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:17:30
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:24:55
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:25:15
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:25:27
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:29:31
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:29:54
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:33:12
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:33:46
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:42:39
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:47:07
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:47:19
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:47:49
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:57:11
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-04 23:57:15
+                    _posts/2025-08-31-Mein-Start-mit-252425-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-05 00:00:10
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-05 00:02:49
+                    _posts/2025-09-04-Neue-Logos-fuer-mein-Homelab.md
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-05 00:06:26
+                    _includes/sidebar.html
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+[2025-09-05 00:08:01] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:10 
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'

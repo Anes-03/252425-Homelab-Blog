@@ -1,11 +1,20 @@
 [
   
   {
+    "title": "Neue Logos für mein Homelab",
+    "url": "/posts/Neue-Logos-fuer-mein-Homelab/",
+    "categories": "Homelab, Design",
+    "tags": "logo, design, branding, homelab",
+    "date": "2025-09-04 18:00:00 +0200",
+    "content": "Ich habe neue Logos für mein Homelab entworfen – erste Entwürfe, Varianten und nächste Schritte."
+  },
+  
+  {
     "title": "Mein Start mit 252425 Homelab",
     "url": "/posts/Mein-Start-mit-252425-Homelab/",
     "categories": "Homelab",
     "tags": "start, homelab, raspberry-pi, nas, blog",
-    "date": "2025-08-31 12:00:00 +0200",
+    "date": "2025-08-31 18:00:00 +0200",
     "content": "Mein Start mit 252425 Homelab: von einer simplen Link-Seite zu ersten Projekten mit Raspberry Pi als NAS – und wohin die Reise hier im Blog geht."
   }
   
