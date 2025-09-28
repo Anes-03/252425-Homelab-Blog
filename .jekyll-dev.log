@@ -454,3 +454,51 @@ LiveReload address: http://127.0.0.1:35729
 	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `eof?'
 	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in `run'
 	/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/webrick-1.9.1/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 2 file(s) changed at 2025-09-06 00:01:39
+                    .ruby-lsp/last_updated
+                    .ruby-lsp/Gemfile.lock
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-09-06 00:01:40
+                    .ruby-lsp/Gemfile.lock
+[33m             Error: "\xCC" from ASCII-8BIT to UTF-8[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:291:in `join': SIGTERM (SignalException)
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:291:in `boot_or_detach'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:221:in `start_up_webrick'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:102:in `process'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `each'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in `block (2 levels) in init_with_program'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/gems/jekyll-4.4.1/exe/jekyll:15:in `<top (required)>'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/rubygems.rb:319:in `load'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/rubygems.rb:319:in `activate_and_load_bin_path'
+	from /Users/aneshamzic/Nextcloud/252425 Homelab Blog/252425-Homelab-Blog/vendor/bundle/ruby/3.3.0/bin/jekyll:25:in `<top (required)>'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/cli/exec.rb:59:in `load'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/cli/exec.rb:59:in `kernel_load'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/cli/exec.rb:23:in `run'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/cli.rb:451:in `exec'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor.rb:538:in `dispatch'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/cli.rb:35:in `dispatch'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/cli.rb:29:in `start'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/gems/3.3.0/gems/bundler-2.7.1/exe/bundle:28:in `block in <top (required)>'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/bundler/friendly_errors.rb:118:in `with_friendly_errors'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/gems/3.3.0/gems/bundler-2.7.1/exe/bundle:20:in `<top (required)>'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/rubygems.rb:319:in `load'
+	from /opt/homebrew/Cellar/ruby@3.3/3.3.9/lib/ruby/3.3.0/rubygems.rb:319:in `activate_and_load_bin_path'
+	from /opt/homebrew/opt/ruby@3.3/bin/bundle:25:in `<main>'
