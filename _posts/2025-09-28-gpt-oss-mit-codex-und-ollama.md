@@ -1,6 +1,6 @@
 ---
 title: "GPT-OSS Model mit Codex CLI und Ollama nutzen: Meine Entdeckungsreise zu lokaler KI-Entwicklung"
-date: 2025-09-10 18:00:00 +0200
+date: 2025-09-28 18:00:00 +0200
 categories: [Homelab, KI]
 tags: [gpt-oss, codex, ollama, lokales-ki, cli]
 description: "Meine Erfahrungen, wie sich das GPT-OSS Modell mit der Codex CLI und Ollama lokal betreiben lässt – inkl. schneller Einstieg und Profi-Konfiguration."
