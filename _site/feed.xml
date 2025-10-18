@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://blog.252425.xyz/</id>
+  <id>http://localhost:4000/</id>
   <title>252425 Homelab Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-09-05T00:09:24+02:00</updated>
+  <updated>2025-10-18T20:06:12+02:00</updated>
   <author>
     <name>252425 Homelab</name>
-    <uri>https://blog.252425.xyz/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://blog.252425.xyz/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="de"
-    href="https://blog.252425.xyz/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 252425 Homelab </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,68 @@
 
   
   <entry>
+    <title>Mein Weg zum Markdown WebEditor</title>
+    <link href="http://localhost:4000/posts/mein-weg-zum-markdown-webeditor/" rel="alternate" type="text/html" title="Mein Weg zum Markdown WebEditor" />
+    <published>2025-10-18T18:00:00+02:00</published>
+  
+    <updated>2025-10-18T18:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/mein-weg-zum-markdown-webeditor/</id>
+    <content type="text/html" src="http://localhost:4000/posts/mein-weg-zum-markdown-webeditor/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+    <category term="Tools" />
+    
+    <category term="KI" />
+    
+  
+
+  <summary>Wie ich in einer Woche einen komplett clientseitigen Markdown WebEditor gebaut habe – ohne Registrierung, ohne Server, direkt im Browser.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>GPT-OSS Model mit Codex CLI und Ollama nutzen: Meine Entdeckungsreise zu lokaler KI-Entwicklung</title>
+    <link href="http://localhost:4000/posts/gpt-oss-mit-codex-und-ollama/" rel="alternate" type="text/html" title="GPT-OSS Model mit Codex CLI und Ollama nutzen: Meine Entdeckungsreise zu lokaler KI-Entwicklung" />
+    <published>2025-09-28T18:00:00+02:00</published>
+  
+    <updated>2025-09-28T18:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/gpt-oss-mit-codex-und-ollama/</id>
+    <content type="text/html" src="http://localhost:4000/posts/gpt-oss-mit-codex-und-ollama/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+    <category term="KI" />
+    
+  
+
+  <summary>Meine Erfahrungen, wie sich das GPT-OSS Modell mit der Codex CLI und Ollama lokal betreiben lässt – inkl. schneller Einstieg und Profi-Konfiguration.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Neue Logos für mein Homelab</title>
-    <link href="https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/" rel="alternate" type="text/html" title="Neue Logos für mein Homelab" />
+    <link href="http://localhost:4000/posts/Neue-Logos-fuer-mein-Homelab/" rel="alternate" type="text/html" title="Neue Logos für mein Homelab" />
     <published>2025-09-04T18:00:00+02:00</published>
   
     <updated>2025-09-04T18:00:00+02:00</updated>
   
-    <id>https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/" />
+    <id>http://localhost:4000/posts/Neue-Logos-fuer-mein-Homelab/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Neue-Logos-fuer-mein-Homelab/" />
     <author>
       <name>252425 Homelab</name>
     </author>
@@ -47,13 +101,13 @@
   
   <entry>
     <title>Mein Start mit 252425 Homelab</title>
-    <link href="https://blog.252425.xyz/posts/Mein-Start-mit-252425-Homelab/" rel="alternate" type="text/html" title="Mein Start mit 252425 Homelab" />
+    <link href="http://localhost:4000/posts/Mein-Start-mit-252425-Homelab/" rel="alternate" type="text/html" title="Mein Start mit 252425 Homelab" />
     <published>2025-08-31T18:00:00+02:00</published>
   
-    <updated>2025-08-31T18:00:00+02:00</updated>
+    <updated>2025-09-05T00:12:36+02:00</updated>
   
-    <id>https://blog.252425.xyz/posts/Mein-Start-mit-252425-Homelab/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/Mein-Start-mit-252425-Homelab/" />
+    <id>http://localhost:4000/posts/Mein-Start-mit-252425-Homelab/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Mein-Start-mit-252425-Homelab/" />
     <author>
       <name>252425 Homelab</name>
     </author>

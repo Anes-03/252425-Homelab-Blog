@@ -1,6 +1,24 @@
 [
   
   {
+    "title": "Mein Weg zum Markdown WebEditor",
+    "url": "/posts/mein-weg-zum-markdown-webeditor/",
+    "categories": "Homelab, Tools, KI",
+    "tags": "markdown, editor, web, browser, ki",
+    "date": "2025-10-18 18:00:00 +0200",
+    "content": "Wie ich in einer Woche einen komplett clientseitigen Markdown WebEditor gebaut habe – ohne Registrierung, ohne Server, direkt im Browser."
+  },
+  
+  {
+    "title": "GPT-OSS Model mit Codex CLI und Ollama nutzen: Meine Entdeckungsreise zu lokaler KI-Entwicklung",
+    "url": "/posts/gpt-oss-mit-codex-und-ollama/",
+    "categories": "Homelab, KI",
+    "tags": "gpt-oss, codex, ollama, lokales-ki, cli",
+    "date": "2025-09-28 18:00:00 +0200",
+    "content": "Meine Erfahrungen, wie sich das GPT-OSS Modell mit der Codex CLI und Ollama lokal betreiben lässt – inkl. schneller Einstieg und Profi-Konfiguration."
+  },
+  
+  {
     "title": "Neue Logos für mein Homelab",
     "url": "/posts/Neue-Logos-fuer-mein-Homelab/",
     "categories": "Homelab, Design",
