@@ -9,8 +9,6 @@ image:
   alt: "Hacker Adventskalender Cover"
 ---
 
-![Hacker Adventskalender 2025](/assets/img/posts/2025-12-06-der-hacker-adventskalender/hacker-adventskalender-cover.png)
-
 Die Weihnachtszeit rückt näher – und statt Schokolade gibt es für uns Homelab-Enthusiasten jetzt einen Kalender voller Security-Wissen: den **Hacker-Adventskalender 2025**. Eine retro-cyber-inspirierte Single-Page-App im Neon-Grün/Blau-Look mit Monospace-Fonts und Scanline-Overlay, die euch jeden Tag ein neues Sicherheitsthema und eine kleine Herausforderung liefert.
 
 ## Was ist der Hacker-Adventskalender?
