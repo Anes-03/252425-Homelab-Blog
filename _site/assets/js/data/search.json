@@ -1,6 +1,15 @@
 [
   
   {
+    "title": "Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab",
+    "url": "/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/",
+    "categories": "Security, Homelab",
+    "tags": "adventskalender, security, hacking, homelab, ctf, lernen",
+    "date": "2025-12-06 20:30:00 +0100",
+    "content": "Hacker-Adventskalender 2025 mit 31 Security-Challenges und Lessons für dein Homelab – im Retro-Cyber-Style und komplett lokal speichernd."
+  },
+  
+  {
     "title": "Mein Weg zum Markdown WebEditor",
     "url": "/posts/mein-weg-zum-markdown-webeditor/",
     "categories": "Homelab, Tools, KI",

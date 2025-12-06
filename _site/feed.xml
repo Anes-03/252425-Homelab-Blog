@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>252425 Homelab Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-18T20:06:12+02:00</updated>
+  <updated>2025-12-06T20:20:27+01:00</updated>
   <author>
     <name>252425 Homelab</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab</title>
+    <link href="http://localhost:4000/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/" rel="alternate" type="text/html" title="Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab" />
+    <published>2025-12-06T20:30:00+01:00</published>
+  
+    <updated>2025-12-06T20:30:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/</id>
+    <content type="text/html" src="http://localhost:4000/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Security" />
+    
+    <category term="Homelab" />
+    
+  
+
+  <summary>Hacker-Adventskalender 2025 mit 31 Security-Challenges und Lessons für dein Homelab – im Retro-Cyber-Style und komplett lokal speichernd.</summary>
+
+  </entry>
 
   
   <entry>
