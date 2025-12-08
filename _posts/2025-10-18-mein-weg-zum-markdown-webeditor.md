@@ -2,7 +2,7 @@
 title: "Mein Weg zum Markdown WebEditor"
 date: 2025-10-18 18:00:00 +0200
 categories: [Homelab, Tools, KI]
-tags: [markdown, editor, web, browser, ki]
+tags: [markdown, markdown-webeditor, editor, web, browser, ki]
 description: "Wie ich in einer Woche einen komplett clientseitigen Markdown WebEditor gebaut habe – ohne Registrierung, ohne Server, direkt im Browser."
 image:
   path: /assets/img/posts/2025-10-18-mein-weg-zum-markdown-webeditor/markdown-webeditor.png
