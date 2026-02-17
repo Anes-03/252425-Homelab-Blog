@@ -1,6 +1,15 @@
 [
   
   {
+    "title": "LaunchSprint: Mein selbstgebauter App-Launcher für macOS",
+    "url": "/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/",
+    "categories": "Homelab, Tools, macOS",
+    "tags": "launchsprint, macos, app-launcher, swiftui, appkit, produktivitaet",
+    "date": "2026-02-17 18:00:00 +0100",
+    "content": "LaunchSprint ist mein selbstgebauter App-Launcher für macOS 26 mit Fullscreen-Grid, Ordnern, Drag & Drop und globalem Hotkey."
+  },
+  
+  {
     "title": "Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab",
     "url": "/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/",
     "categories": "Security, Homelab",
@@ -13,7 +22,7 @@
     "title": "Mein Weg zum Markdown WebEditor",
     "url": "/posts/mein-weg-zum-markdown-webeditor/",
     "categories": "Homelab, Tools, KI",
-    "tags": "markdown, editor, web, browser, ki",
+    "tags": "markdown, markdown-webeditor, editor, web, browser, ki",
     "date": "2025-10-18 18:00:00 +0200",
     "content": "Wie ich in einer Woche einen komplett clientseitigen Markdown WebEditor gebaut habe – ohne Registrierung, ohne Server, direkt im Browser."
   },
