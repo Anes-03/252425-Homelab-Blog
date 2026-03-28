@@ -21,3 +21,20 @@
     background-color: rgba(255, 255, 255, 0.18);
   }
 }
+
+/* Snow effect: hide visually, keep source code intact */
+#snow,
+#snow-canvas,
+canvas.snow,
+canvas#snowfall,
+.snow,
+.snowfall,
+.snowflake,
+.snowflakes,
+[class*="snowflake"],
+[id*="snowflake"] {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
