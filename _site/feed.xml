@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://blog.252425.xyz/</id>
+  <id>http://0.0.0.0:4000/</id>
   <title>252425 Homelab Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-03-14T17:10:26+01:00</updated>
+  <updated>2026-05-18T00:12:36+02:00</updated>
   <author>
     <name>252425 Homelab</name>
-    <uri>https://blog.252425.xyz/</uri>
+    <uri>http://0.0.0.0:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://blog.252425.xyz/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="de"
-    href="https://blog.252425.xyz/"/>
+    href="http://0.0.0.0:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 252425 Homelab </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,98 @@
 
   
   <entry>
+    <title>Codais ist jetzt Open Source: Warum ich meine Codex Companion App geöffnet habe</title>
+    <link href="http://0.0.0.0:4000/posts/codais-ist-jetzt-open-source/" rel="alternate" type="text/html" title="Codais ist jetzt Open Source: Warum ich meine Codex Companion App geöffnet habe" />
+    <published>2026-05-17T18:00:00+02:00</published>
+  
+    <updated>2026-05-17T18:00:00+02:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/codais-ist-jetzt-open-source/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/codais-ist-jetzt-open-source/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+    <category term="Tools" />
+    
+    <category term="KI" />
+    
+  
+
+  <summary>Warum ich Codais öffentlich gemacht habe, was mich seit April an Codex so begeistert und wohin sich mein Apple-first Codex Companion entwickeln könnte.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Zweite Codex-Instanz auf dem Mac einrichten: Zwei Accounts sauber trennen</title>
+    <link href="http://0.0.0.0:4000/posts/zweite-codex-instanz-fuer-zwei-accounts/" rel="alternate" type="text/html" title="Zweite Codex-Instanz auf dem Mac einrichten: Zwei Accounts sauber trennen" />
+    <published>2026-05-10T18:30:00+02:00</published>
+  
+    <updated>2026-05-10T18:30:00+02:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/zweite-codex-instanz-fuer-zwei-accounts/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/zweite-codex-instanz-fuer-zwei-accounts/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+    <category term="Tools" />
+    
+    <category term="KI" />
+    
+  
+
+  <summary>So richte ich auf jedem Mac eine zweite Codex-Instanz ein, damit zwei Accounts sauber getrennt bleiben – inklusive Alias, T3-Code-Setup und Troubleshooting.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Mehr aus wenig RAM holen auf dem Mac? Ein kurzer Test mit iogpu.wired_limit_mb</title>
+    <link href="http://0.0.0.0:4000/posts/mehr-aus-wenig-ram-holen-auf-dem-mac/" rel="alternate" type="text/html" title="Mehr aus wenig RAM holen auf dem Mac? Ein kurzer Test mit iogpu.wired_limit_mb" />
+    <published>2026-03-29T00:05:00+01:00</published>
+  
+    <updated>2026-03-29T00:05:00+01:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/mehr-aus-wenig-ram-holen-auf-dem-mac/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/mehr-aus-wenig-ram-holen-auf-dem-mac/" />
+    <author>
+      <name>252425 Homelab</name>
+    </author>
+
+  
+    
+    <category term="Homelab" />
+    
+    <category term="macOS" />
+    
+    <category term="Performance" />
+    
+  
+
+  <summary>Ein kurzer Praxis-Check zum sysctl-Wert iogpu.wired_limit_mb auf Macs mit 8/16 GB RAM – inklusive Risiken, Teststrategie und Fazit.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>LaunchSprint: Mein selbstgebauter App-Launcher für macOS</title>
-    <link href="https://blog.252425.xyz/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/" rel="alternate" type="text/html" title="LaunchSprint: Mein selbstgebauter App-Launcher für macOS" />
+    <link href="http://0.0.0.0:4000/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/" rel="alternate" type="text/html" title="LaunchSprint: Mein selbstgebauter App-Launcher für macOS" />
     <published>2026-02-17T18:00:00+01:00</published>
   
     <updated>2026-02-17T18:00:00+01:00</updated>
   
-    <id>https://blog.252425.xyz/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/" />
+    <id>http://0.0.0.0:4000/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/" />
     <author>
       <name>252425 Homelab</name>
     </author>
@@ -49,13 +133,13 @@
   
   <entry>
     <title>Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab</title>
-    <link href="https://blog.252425.xyz/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/" rel="alternate" type="text/html" title="Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab" />
+    <link href="http://0.0.0.0:4000/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/" rel="alternate" type="text/html" title="Der Hacker-Adventskalender: 31 Tage Security-Wissen für dein Homelab" />
     <published>2025-12-06T20:30:00+01:00</published>
   
     <updated>2025-12-06T20:43:46+01:00</updated>
   
-    <id>https://blog.252425.xyz/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/" />
+    <id>http://0.0.0.0:4000/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/der-hacker-adventskalender-31-tage-security-wissen-fur-dein-homelab/" />
     <author>
       <name>252425 Homelab</name>
     </author>
@@ -69,86 +153,6 @@
   
 
   <summary>Hacker-Adventskalender 2025 mit 31 Security-Challenges und Lessons für dein Homelab – im Retro-Cyber-Style und komplett lokal speichernd.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Mein Weg zum Markdown WebEditor</title>
-    <link href="https://blog.252425.xyz/posts/mein-weg-zum-markdown-webeditor/" rel="alternate" type="text/html" title="Mein Weg zum Markdown WebEditor" />
-    <published>2025-10-18T18:00:00+02:00</published>
-  
-    <updated>2025-12-08T21:59:25+01:00</updated>
-  
-    <id>https://blog.252425.xyz/posts/mein-weg-zum-markdown-webeditor/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/mein-weg-zum-markdown-webeditor/" />
-    <author>
-      <name>252425 Homelab</name>
-    </author>
-
-  
-    
-    <category term="Homelab" />
-    
-    <category term="Tools" />
-    
-    <category term="KI" />
-    
-  
-
-  <summary>Wie ich in einer Woche einen komplett clientseitigen Markdown WebEditor gebaut habe – ohne Registrierung, ohne Server, direkt im Browser.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>GPT-OSS Model mit Codex CLI und Ollama nutzen: Meine Entdeckungsreise zu lokaler KI-Entwicklung</title>
-    <link href="https://blog.252425.xyz/posts/gpt-oss-mit-codex-und-ollama/" rel="alternate" type="text/html" title="GPT-OSS Model mit Codex CLI und Ollama nutzen: Meine Entdeckungsreise zu lokaler KI-Entwicklung" />
-    <published>2025-09-28T18:00:00+02:00</published>
-  
-    <updated>2025-09-28T18:00:00+02:00</updated>
-  
-    <id>https://blog.252425.xyz/posts/gpt-oss-mit-codex-und-ollama/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/gpt-oss-mit-codex-und-ollama/" />
-    <author>
-      <name>252425 Homelab</name>
-    </author>
-
-  
-    
-    <category term="Homelab" />
-    
-    <category term="KI" />
-    
-  
-
-  <summary>Meine Erfahrungen, wie sich das GPT-OSS Modell mit der Codex CLI und Ollama lokal betreiben lässt – inkl. schneller Einstieg und Profi-Konfiguration.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Neue Logos für mein Homelab</title>
-    <link href="https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/" rel="alternate" type="text/html" title="Neue Logos für mein Homelab" />
-    <published>2025-09-04T18:00:00+02:00</published>
-  
-    <updated>2025-09-04T18:00:00+02:00</updated>
-  
-    <id>https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/</id>
-    <content type="text/html" src="https://blog.252425.xyz/posts/Neue-Logos-fuer-mein-Homelab/" />
-    <author>
-      <name>252425 Homelab</name>
-    </author>
-
-  
-    
-    <category term="Homelab" />
-    
-    <category term="Design" />
-    
-  
-
-  <summary>Ich habe neue Logos für mein Homelab entworfen – erste Entwürfe, Varianten und nächste Schritte.</summary>
 
   </entry>
 

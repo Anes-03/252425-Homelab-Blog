@@ -1,6 +1,33 @@
 [
   
   {
+    "title": "Codais ist jetzt Open Source: Warum ich meine Codex Companion App geöffnet habe",
+    "url": "/posts/codais-ist-jetzt-open-source/",
+    "categories": "Homelab, Tools, KI",
+    "tags": "codais, codex, open-source, swiftui, rust, typescript, apple, agenten",
+    "date": "2026-05-17 18:00:00 +0200",
+    "content": "Warum ich Codais öffentlich gemacht habe, was mich seit April an Codex so begeistert und wohin sich mein Apple-first Codex Companion entwickeln könnte."
+  },
+  
+  {
+    "title": "Zweite Codex-Instanz auf dem Mac einrichten: Zwei Accounts sauber trennen",
+    "url": "/posts/zweite-codex-instanz-fuer-zwei-accounts/",
+    "categories": "Homelab, Tools, KI",
+    "tags": "codex, codex-cli, account-trennung, workflow, terminal, t3-code",
+    "date": "2026-05-10 18:30:00 +0200",
+    "content": "So richte ich auf jedem Mac eine zweite Codex-Instanz ein, damit zwei Accounts sauber getrennt bleiben – inklusive Alias, T3-Code-Setup und Troubleshooting."
+  },
+  
+  {
+    "title": "Mehr aus wenig RAM holen auf dem Mac? Ein kurzer Test mit iogpu.wired_limit_mb",
+    "url": "/posts/mehr-aus-wenig-ram-holen-auf-dem-mac/",
+    "categories": "Homelab, macOS, Performance",
+    "tags": "macos, apple-silicon, ram, sysctl, tuning",
+    "date": "2026-03-29 00:05:00 +0100",
+    "content": "Ein kurzer Praxis-Check zum sysctl-Wert iogpu.wired_limit_mb auf Macs mit 8/16 GB RAM – inklusive Risiken, Teststrategie und Fazit."
+  },
+  
+  {
     "title": "LaunchSprint: Mein selbstgebauter App-Launcher für macOS",
     "url": "/posts/launchsprint-mein-selbstgebauter-app-launcher-fuer-macos/",
     "categories": "Homelab, Tools, macOS",
