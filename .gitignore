@@ -1,2 +1,13 @@
 # macOS Finder metadata
 .DS_Store
+
+# Local Jekyll/Bundler output
+.bundle/
+vendor/bundle/
+_site/
+
+# Browser/debug artifacts
+.playwright-mcp/
+codais-article-cover-check.png
+codais-cover-redesign.png
+codais-cover-updated.png

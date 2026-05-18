@@ -1,4 +1,0 @@
-[      49ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:35729/livereload.js?snipver=1&port=35729:0
-[   87499ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:35729/livereload.js?snipver=1&port=35729:0
-[  203710ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:35729/livereload.js?snipver=1&port=35729:0
-[  204642ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:35729/livereload.js?snipver=1&port=35729:0
